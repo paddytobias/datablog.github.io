@@ -1,6 +1,6 @@
 ## My blog
 
-Inspired by [this article](http://varianceexplained.org/r/start-blog/), I have decided to join the Millenials and write a blog... about discovering data science. It is based on my GitHub repository so I can easy share the code that I've written. 
+Inspired by [this article](http://varianceexplained.org/r/start-blog/), I have decided to join the Millenials and write a blog... about discovering data science. It is based on [my GitHub repository](https://github.com/paddytobias/) so I can easy share the code that I've written. 
 
 I am keen to get better at forming arguments and writing short, interesting pieces around numbers. 
 
