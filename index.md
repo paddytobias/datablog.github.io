@@ -1,4 +1,4 @@
-##Data Blog
+## Data Blog
 
 I am currently undertaking a Masters of Data Science. I have been at the University of New England (Armidale, NSW) for 8 years, having completed my PhD in political science, and now work as the University's eResearch Analyst for a Sydney-based group called [Intersect Australia](https://intersect.org.au).
 
@@ -6,7 +6,6 @@ The potentials of programming and computational methods is exciting and I am par
 
 This blog will track my way through data science. 
 
-##Contract
-<div class="center" markdown="1">
-<contact-icons email="paddytobias@me.com"></contact-icons>
-</div>
+## Contract
+[Email](paddytobias@me.com)
+
