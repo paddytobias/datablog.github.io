@@ -1,6 +1,6 @@
 ## My blog
 
-Inspired by [this article](http://varianceexplained.org/r/start-blog/), I have decided to join the Millenials and write a blog. It is based on my GitHub repository so I can easy share the code that I've written. 
+Inspired by [this article](http://varianceexplained.org/r/start-blog/), I have decided to join the Millenials and write a blog... about discovering data science. It is based on my GitHub repository so I can easy share the code that I've written. 
 
 I am keen to get better at forming arguments and writing short, interesting pieces around numbers. 
 
@@ -9,7 +9,7 @@ I am currently undertaking a Masters of Data Science. I have been at the Univers
 
 The potentials of programming and computational methods is certainly exciting. I am relatively new to it and mostly self-taught. My main interests are in interrogating text-based data through programmatic means - traditional natural language processing does not do this very well I don't think. I mostly use **R**, some **SQL** and **new** to Python. 
 
-I'm hoping this blog will track my way through the mysterious world of data science. 
+I'm hoping this blog will help me navigate the mysterious world of data science. 
 
 ## Contract
 [Email me](mailto:paddytobias@me.com)
