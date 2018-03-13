@@ -7,5 +7,5 @@ The potentials of programming and computational methods is exciting and I am par
 This blog will track my way through data science. 
 
 ## Contract
-[Email](paddytobias@me.com)
+[Email](mailto:paddytobias@me.com)
 
